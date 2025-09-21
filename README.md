@@ -1,4 +1,4 @@
-<!-- Header Image -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/nadyasarahfirdausy/nadyasarahfirdausy/main/header.png" alt="Header" width="800"/>
 </p>
