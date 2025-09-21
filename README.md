@@ -1,5 +1,6 @@
 Hollaaa 👋
-
+![Header](<img width="626" height="354" alt="image" src="https://github.com/user-attachments/assets/d6c3e64f-a6f7-4b51-9def-76f73efc0335" />
+)
 ✨Nadya is heree✨
 hello, I'm Nadya Sarah Firdausy,
 Undergraduate Student at Geophysic UGM.
