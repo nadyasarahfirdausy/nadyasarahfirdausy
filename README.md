@@ -1,6 +1,6 @@
-#Hollaaa 👋
+Hollaaa 👋
 
-##✨Nadya is heree✨
+✨Nadya is heree✨
 hello, I'm Nadya Sarah Firdausy,
 Undergraduate Student at Geophysic UGM.
 
