@@ -1,7 +1,8 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/galaxy.png" alt="Header" width="800"/>
+  <img src="https://raw.githubusercontent.com/nadyasarahfirdausy/nadyasarahfirdausy/main/header.png" alt="Header" width="800"/>
 </p>
+
 
 # Hollaaa 👋
 
