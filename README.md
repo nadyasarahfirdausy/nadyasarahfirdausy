@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nadyasarahfirdausy/nadyasarahfirdausy/main/header.png" alt="Header" width="800"/>
+  <img src="https://raw.githubusercontent.com/nadyasarahfirdausy/nadyasarahfirdausy/main/<img width="626" height="354" alt="image" src="https://github.com/user-attachments/assets/b45f2174-7c78-412a-9e63-0b3992ccfc67" />
+" alt="Header" width="800"/>
 </p>
 
 
