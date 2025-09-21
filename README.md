@@ -17,7 +17,7 @@ Beyond academics, I enjoy writing **daily journals** and continuously seeking ne
 ### 🌟 About Me
 - 🎓 Currently studying **Geophysics at UGM**  
 - 🌍 Passionate about **Earth sciences** and data  
-- ✍️ Love writing **daily journals**  
+- ✍️ Enjoy writing **daily journals**  
 - 💻 Exploring **programming** to process and model geophysical phenomena  
 
 ---
