@@ -1,12 +1,12 @@
+# Hollaaa 👋
 
+✨ **Nadya is heree** ✨
 <p align="center">
   <img src="https://raw.githubusercontent.com/nadyasarahfirdausy/nadyasarahfirdausy/main/7ea6609adecfdf4a1fe33bda7cd4cf93.jpg" alt="Header" width="800"/>
 </p>
 
 
-# Hollaaa 👋
-
-✨ **Nadya is heree** ✨  
+ 
 Hello, I'm **Nadya Sarah Firdausy**, an Undergraduate Student at **Geophysics UGM**.  
 
 In Geophysics, I deepen my passion and skills in exploring the Earth, while also refining my **programming abilities** as a valuable tool for processing data and understanding geophysical phenomena.  
